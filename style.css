@@ -6,17 +6,26 @@
     color: gainsboro;
     font-family: sans-serif;
     text-align: center;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: lightslategrey;
 }
 
 img{
     width: 500px;
     align-items: center;
+    border-style: solid;
+    border-radius: 5px;
+    border-color: gainsboro;
 }
 
 .item2{
     font-family: sans-serif;
     color: gainsboro;
     text-align: center;
+    border-style: solid;
+    border-radius: 5px;
+    background-color: lightslategrey;
 }
 
 .centro{
