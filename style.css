@@ -1,0 +1,26 @@
+.fundo{
+    background-color: darkslategray;
+}
+
+.item1{
+    color: gainsboro;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+img{
+    width: 500px;
+    align-items: center;
+}
+
+.item2{
+    font-family: sans-serif;
+    color: gainsboro;
+    text-align: center;
+}
+
+.centro{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
